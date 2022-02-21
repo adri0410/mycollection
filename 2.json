@@ -1,0 +1,35 @@
+{
+  "dna": "731afacbb956cf7b1b315f5d68c1a14455822635",
+  "name": "#2",
+  "description": "This is the Golem Arena NFT project",
+  "image": "https://raw.githubusercontent.com/adri0410/mycollection/main/2.png",
+  "edition": 2,
+  "date": 1645382667748,
+  "attributes": [
+    {
+      "trait_type": "Card",
+      "value": "common efecto "
+    },
+    {
+      "trait_type": "Golem",
+      "value": "Aqua effects"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "bate efecto"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ojos5"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "cuernos3amarillo"
+    },
+    {
+      "trait_type": "Runes",
+      "value": "runa9"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
